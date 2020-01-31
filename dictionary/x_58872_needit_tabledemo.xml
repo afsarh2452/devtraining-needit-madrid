@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="tableDemo" max_length="40" name="x_58872_needit_tabledemo" type="collection">
+        <element label="Ename" max_length="30" name="ename" type="string"/>
+    </element>
+</database>
